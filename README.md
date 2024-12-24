@@ -66,7 +66,7 @@
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=niranjan022&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="154" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=niranjan022&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="154" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=niranjan022&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="154" alt="streak graph"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niranjan022&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="154" alt="languages graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=niranjan022&theme=matrix&no-frame=false&no-bg=true" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niranjan022&theme=github-dark&area=false&hide_border=true&hide_title=false" height="270" alt="activity-graph graph"  />
